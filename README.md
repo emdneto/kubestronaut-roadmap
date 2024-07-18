@@ -168,7 +168,7 @@ Study and practice but not limited to the following:
 * RBAC authorization
 
 Recommended Labs and resources:
-* Study all scenarios on https://killercoda.com/killer-shell-cks
+* https://killercoda.com/killer-shell-cks
 * [Cloud Native Security Whitepaper](https://www.cncf.io/wp-content/uploads/2022/06/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
 * https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
 * https://github.com/ViktorUJ/cks
