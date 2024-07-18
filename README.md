@@ -131,6 +131,7 @@ Recommended Labs and resources:
 * https://killercoda.com/killer-shell-cka
 * https://github.com/chadmcrowell/CKA-Exercises
 * https://devopscube.com/cka-exam-study-guide/
+* https://www.youtube.com/playlist?list=PL7bmigfV0EqS6WxgWlH-p4dhkfuwcZ6-E
 
 ## Certified Kubernetes Application Developer (CKAD)
 
