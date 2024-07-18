@@ -75,7 +75,7 @@ export now="--force --grace-period 0"
 
 ## Kubernetes and Cloud Native Associate (KCNA)
 
-KCNA will test your knowledge and skills in Kubernetes and the wider cloud native ecosystem. In my opinion, is the easiest one. *Pass score is 75%*.
+[KCNA](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) will test your knowledge and skills in Kubernetes and the wider cloud native ecosystem. In my opinion, is the easiest one. *Pass score is 75%*.
 
 Study but not limited to the following:
 
@@ -86,9 +86,12 @@ Study but not limited to the following:
 * Some knowledge of the CNCF projects
 * Concepts of observability
 
+Recommended Labs and resources:
+* https://www.linkedin.com/pulse/how-ace-kcna-kubernetes-cloud-native-associate-exam-keratishvili-mwhwf/
+
 ## Kubernetes and Cloud Native Security Associate (KCSA)
 
-KCSA will test your understanding of the baseline security configuration of Kubernetes clusters to meet compliance objectives, including the ability to harden security controls, test and monitor the security, and participate in assessing security threats and vulnerabilities.
+[KCSA](https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-security-associate-kcsa/) will test your understanding of the baseline security configuration of Kubernetes clusters to meet compliance objectives, including the ability to harden security controls, test and monitor the security, and participate in assessing security threats and vulnerabilities.
 
 In my opinion, this certification is very hard if you don't have kwnoledge on security fundamentals. *Pass score is 75%*.
 
@@ -105,7 +108,7 @@ Recommended Labs and resources:
 
 ## Certified Kubernetes Administrator (CKA)
 
-CKA will test your skills, knowledge, and competency to perform the responsibilities of Kubernetes administrators.
+[CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) will test your skills, knowledge, and competency to perform the responsibilities of Kubernetes administrators.
 
 In my opinion, it's the most important certification. A score of 66% or above must be earned to pass.
 
@@ -131,7 +134,7 @@ Recommended Labs and resources:
 
 ## Certified Kubernetes Application Developer (CKAD)
 
-CKAD will test your ability to design, build, and deploy cloud-native applications using Kubernetes.
+[CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) will test your ability to design, build, and deploy cloud-native applications using Kubernetes.
 
 In my opinion, it is the easiest one. To pass, you must earn a score of 66% or above.
 
@@ -152,7 +155,7 @@ Recommended Labs and resources:
 
 ## Kubernetes Security Specialist (CKS)
 
-CKS will test your skills, knowledge, and competence on a broad range of best practices for securing container-based applications and Kubernetes platforms during build, deployment and runtime.
+[CKS](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/) will test your skills, knowledge, and competence on a broad range of best practices for securing container-based applications and Kubernetes platforms during build, deployment and runtime.
 
 In my opinion, it is the most difficult one. To pass, you must earn a score of 67% or above.
 
