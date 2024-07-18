@@ -2,6 +2,8 @@
 
 This is a step-by-step guide on how to become a Kubestronaut, with links to relevant learning resources.
 
+If you want to watch a video version of this roadmap, you can find it [here](https://www.youtube.com/watch?v=Xjmqi8vt3Rg).
+
 ## The program
 
 The [Kubestronaut program](https://www.cncf.io/training/kubestronaut/) recognises community leaders who have consistently invested in their ongoing education and grown their skill level with Kubernetes. Individuals who have successfully passed every CNCF’s Kubernetes certifications – CKA, CKAD, CKS, KCNA, KCSA – will receive the title of “Kubestronaut”, as well as these additional benefits:
@@ -12,24 +14,24 @@ The [Kubestronaut program](https://www.cncf.io/training/kubestronaut/) recognise
 * Coupons for 50% off five certifications each year – for yourself or to share
 * 25% off three CNCF events a year
 
-
 ## Certifications
+
 * CKA, CKS, CKAD:
-    * Duration: 2h
-    * Questions: 15-20 performance-based
+  * Duration: 2h
+  * Questions: 15-20 performance-based
 * KCNA, KCSA:
-    * Duration: 1h30
-    * Questions: 60 multiple-choice
+  * Duration: 1h30
+  * Questions: 60 multiple-choice
 
 My recommended order to take the certifications:
 
 * If you have some experience and knowledge on Kubernetes, containers and cloud-native ecosystem:
-    * KCNA -> CKA -> CKAD -> CKS -> KCSA
-    * Rationale: Starting with KCNA provides a solid foundation in Kubernetes and the cloud-native ecosystem. The CKA certification will deepen your understanding of cluster administration. Next, CKAD will help you build, deploy and manage workloads on Kubernetes. Studying for CKS will enhance your knowledge of Kubernetes security, which will make it easier to grasp theoretical concepts covered in KCSA.
+  * KCNA -> CKA -> CKAD -> CKS -> KCSA
+  * Rationale: Starting with KCNA provides a solid foundation in Kubernetes and the cloud-native ecosystem. The CKA certification will deepen your understanding of cluster administration. Next, CKAD will help you build, deploy and manage workloads on Kubernetes. Studying for CKS will enhance your knowledge of Kubernetes security, which will make it easier to grasp theoretical concepts covered in KCSA.
 
 * If you have some knowledge on cloud-native ecosystem, but don't have too much experience with Kubernetes:
-    * KCNA -> CKAD -> CKA -> KCSA -> CKS
-    * Rationale: Begin with KCNA to establish a fundamental understanding of Kubernetes and cloud-native principles. Move on to CKAD to learn how to develop and deploy applications in Kubernetes. Then, study for CKA to gain advanced skills in Kubernetes administration. KCSA will give you insights into theoretical content of cloud-native security, and finally, CKS will focus out on kubernetes security, leveraging the knowledge gained from the previous certifications.
+  * KCNA -> CKAD -> CKA -> KCSA -> CKS
+  * Rationale: Begin with KCNA to establish a fundamental understanding of Kubernetes and cloud-native principles. Move on to CKAD to learn how to develop and deploy applications in Kubernetes. Then, study for CKA to gain advanced skills in Kubernetes administration. KCSA will give you insights into theoretical content of cloud-native security, and finally, CKS will focus out on kubernetes security, leveraging the knowledge gained from the previous certifications.
 
 > CKA is a pre-req for CKS.
 
@@ -66,10 +68,9 @@ export now="--force --grace-period 0"
 ```
 
 * Copy/paste won't work as usual:
-    * You can use the menu from right click
-    * ctrl+shift+c / ctrl+shift+v
-    * Click-copy from the instructions
-
+  * You can use the menu from right click
+  * ctrl+shift+c / ctrl+shift+v
+  * Click-copy from the instructions
 
 * You should be familiar with Kubernetes documentation as well, so spent some time reading and searching through k8s docs. Try to remember pages with examples of manifests (e.g., pv, pv, network policy, ingress) so you can copy/paste faster.
 
@@ -87,7 +88,8 @@ Study but not limited to the following:
 * Concepts of observability
 
 Recommended Labs and resources:
-* https://www.linkedin.com/pulse/how-ace-kcna-kubernetes-cloud-native-associate-exam-keratishvili-mwhwf/
+
+* <https://www.linkedin.com/pulse/how-ace-kcna-kubernetes-cloud-native-associate-exam-keratishvili-mwhwf/>
 
 ## Kubernetes and Cloud Native Security Associate (KCSA)
 
@@ -96,6 +98,7 @@ Recommended Labs and resources:
 In my opinion, this certification is very hard if you don't have kwnoledge on security fundamentals. *Pass score is 75%*.
 
 Study but not limited to the following:
+
 * 4Cs of Cloud Native Security
 * control-plane protection
 * admission Controllers
@@ -104,7 +107,8 @@ Study but not limited to the following:
 * read the Cloud Native Security whitepaper
 
 Recommended Labs and resources:
-* https://itnext.io/how-to-ace-kcsa-kubernetes-and-cloud-native-security-associate-exam-c9fae3f5c6a1
+
+* <https://itnext.io/how-to-ace-kcsa-kubernetes-and-cloud-native-security-associate-exam-c9fae3f5c6a1>
 
 ## Certified Kubernetes Administrator (CKA)
 
@@ -128,10 +132,10 @@ Study and practice but not limited to the following:
 
 Recommended Labs and resources:
 
-* https://killercoda.com/killer-shell-cka
-* https://github.com/chadmcrowell/CKA-Exercises
-* https://devopscube.com/cka-exam-study-guide/
-* https://www.youtube.com/playlist?list=PL7bmigfV0EqS6WxgWlH-p4dhkfuwcZ6-E
+* <https://killercoda.com/killer-shell-cka>
+* <https://github.com/chadmcrowell/CKA-Exercises>
+* <https://devopscube.com/cka-exam-study-guide/>
+* <https://www.youtube.com/playlist?list=PL7bmigfV0EqS6WxgWlH-p4dhkfuwcZ6-E>
 
 ## Certified Kubernetes Application Developer (CKAD)
 
@@ -151,8 +155,8 @@ Study and practice but not limited to the following:
 
 Recommended Labs and resources:
 
-* https://killercoda.com/killer-shell-ckad
-* https://devopscube.com/ckad-exam-study-guide
+* <https://killercoda.com/killer-shell-ckad>
+* <https://devopscube.com/ckad-exam-study-guide>
 
 ## Kubernetes Security Specialist (CKS)
 
@@ -161,6 +165,7 @@ Recommended Labs and resources:
 In my opinion, it is the most difficult one. To pass, you must earn a score of 67% or above.
 
 Study and practice but not limited to the following:
+
 * Be comfortable with changing control-plane components
 * CIS benchmarks
 * Know how to use tools like Falco, Sysdig, Tracee, Trivy
@@ -172,8 +177,9 @@ Study and practice but not limited to the following:
 * RBAC authorization
 
 Recommended Labs and resources:
-* https://www.youtube.com/watch?v=d9xfB5qaOfg
-* https://killercoda.com/killer-shell-cks
+
+* <https://www.youtube.com/watch?v=d9xfB5qaOfg>
+* <https://killercoda.com/killer-shell-cks>
 * [Cloud Native Security Whitepaper](https://www.cncf.io/wp-content/uploads/2022/06/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
-* https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
-* https://github.com/ViktorUJ/cks
+* <https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist>
+* <https://github.com/ViktorUJ/cks>
