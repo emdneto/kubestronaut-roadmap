@@ -2,7 +2,7 @@
 
 This is a step-by-step guide on how to become a Kubestronaut, with links to relevant learning resources.
 
-If you want to watch a video version of this roadmap, you can find it [here](https://www.youtube.com/watch?v=Xjmqi8vt3Rg).
+If you want to watch a video version (in Portuguese) of this roadmap, you can find it [here](https://www.youtube.com/watch?v=Xjmqi8vt3Rg). Presented at 4º Online Meetup of CNCF-SC Community Group
 
 ## The program
 
