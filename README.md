@@ -27,7 +27,7 @@ My recommended order to take the certifications:
 
 * If you have some experience and knowledge of Kubernetes, containers and cloud-native ecosystems:
   * KCNA -> CKA -> CKAD -> CKS -> KCSA
-  * Rationale: Starting with KCNA provides a solid foundation in Kubernetes and the cloud-native ecosystem. The CKA certification will deepen your understanding of cluster administration. Next, CKAD will help you to understand how to build, deploy and manage workloads on Kubernetes. Studying for CKS will enhance your knowledge of Kubernetes security fundamentals, which will make it easier to grasp the theoretical concepts covered in KCSA.
+  * Rationale: Starting with KCNA provides a solid foundation in Kubernetes and the cloud-native ecosystem and also gains some experience in the check-in process. The CKA certification will deepen your understanding of cluster administration. Next, CKAD will help you to understand how to build, deploy and manage workloads on Kubernetes. Studying for CKS will enhance your knowledge of Kubernetes security fundamentals, which will make it easier to grasp the theoretical concepts covered in KCSA.
 
 * If you have some theoretical knowledge of cloud-native ecosystems, but don't have too much experience with Kubernetes:
   * KCNA -> CKAD -> CKA -> KCSA -> CKS
