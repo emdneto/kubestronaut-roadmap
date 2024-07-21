@@ -10,7 +10,7 @@ The [Kubestronaut program](https://www.cncf.io/training/kubestronaut/) recognise
 
 * An exclusive Kubestronaut jacket to show off your elite status
 * A Credly badge to showcase your expertise
-* Access to the dedicated / private Kubestronaut Slack channel and mailing list
+* Access to the dedicated/private Kubestronaut Slack channel and mailing list
 * Coupons for 50% off five certifications each year – for yourself or to share
 * 25% off three CNCF events a year
 
@@ -25,13 +25,13 @@ The [Kubestronaut program](https://www.cncf.io/training/kubestronaut/) recognise
 
 My recommended order to take the certifications:
 
-* If you have some experience and knowledge on Kubernetes, containers and cloud-native ecosystem:
+* If you have some experience and knowledge of Kubernetes, containers and cloud-native ecosystems:
   * KCNA -> CKA -> CKAD -> CKS -> KCSA
-  * Rationale: Starting with KCNA provides a solid foundation in Kubernetes and the cloud-native ecosystem. The CKA certification will deepen your understanding of cluster administration. Next, CKAD will help you build, deploy and manage workloads on Kubernetes. Studying for CKS will enhance your knowledge of Kubernetes security, which will make it easier to grasp theoretical concepts covered in KCSA.
+  * Rationale: Starting with KCNA provides a solid foundation in Kubernetes and the cloud-native ecosystem. The CKA certification will deepen your understanding of cluster administration. Next, CKAD will help you to understand how to build, deploy and manage workloads on Kubernetes. Studying for CKS will enhance your knowledge of Kubernetes security fundamentals, which will make it easier to grasp the theoretical concepts covered in KCSA.
 
-* If you have some knowledge on cloud-native ecosystem, but don't have too much experience with Kubernetes:
+* If you have some knowledge of cloud-native ecosystems, but don't have too much experience with Kubernetes:
   * KCNA -> CKAD -> CKA -> KCSA -> CKS
-  * Rationale: Begin with KCNA to establish a fundamental understanding of Kubernetes and cloud-native principles. Move on to CKAD to learn how to develop and deploy applications in Kubernetes. Then, study for CKA to gain advanced skills in Kubernetes administration. KCSA will give you insights into theoretical content of cloud-native security, and finally, CKS will focus out on kubernetes security, leveraging the knowledge gained from the previous certifications.
+  * Rationale: Begin with KCNA to establish a fundamental understanding of Kubernetes and cloud-native principles. Move on to CKAD to learn how to develop and deploy applications in Kubernetes. Then, study for CKA to gain advanced skills in Kubernetes administration. KCSA will give you insights into the theoretical content of cloud-native security, and finally, CKS will focus on Kubernetes security hands-on, leveraging the knowledge earned from the previous certifications.
 
 > CKA is a pre-req for CKS.
 
@@ -43,11 +43,11 @@ CKS (hard one) -> CKA -> KCSA -> CKAD -> KCNA (easy one)
 
 For all exams:
 
-* Always be present 30min before the exam start to do the checkin
+* Always be present 30min before the exam start to do the check-in
 
-* Reliable internet connection and a good webcam (if the proctor can't read your ID during the checkin you won't be able to do the exam)
+* Reliable internet connection and a good webcam (if the proctor can't read your ID during the check-in you won't be able to do the exam)
 
-* If you can't answer a question quickly, mark it as flagged and move on. Try solving the easier questions first to gain more confidence and then work on solving the other questions.
+* If you can't answer a question quickly, mark it as flagged and move on. Try solving the easier questions first to gain more confidence, and then work on solving the other questions.
 
 For CKA, CKAD, CKS:
 
@@ -95,7 +95,7 @@ Recommended Labs and resources:
 
 [KCSA](https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-security-associate-kcsa/) will test your understanding of the baseline security configuration of Kubernetes clusters to meet compliance objectives, including the ability to harden security controls, test and monitor the security, and participate in assessing security threats and vulnerabilities.
 
-In my opinion, this certification is very hard if you don't have kwnoledge on security fundamentals. *Pass score is 75%*.
+In my opinion, this certification is very hard if you don't have knowledge of security fundamentals. *Pass score is 75%*.
 
 Study but not limited to the following:
 
@@ -120,15 +120,15 @@ Study and practice but not limited to the following:
 
 * how to perform etcd backup/restore
 * how to cluster setup/upgrade with kubeadm
-* creating pv, pvc and mounting volumes into pods.
+* creating pv, pvc and mounting volumes into pods
 * multi-containers in a pod
-* nodeSelector, affinity
-* taints, tolerations
-* network policies
-* services and ingresses
-* pods, deployments
-* kubelet troubleshooting
-* control-plane components troubleshooting
+* study about how configure nodeSelector, pod affinity
+* concepts of taints, tolerations
+* be comfortable on creating network policies
+* be fast on create services with kubectl and ingresses
+* be fast on creating pods and deployments
+* practice kubelet troubleshooting
+* practice control-plane components troubleshooting
 
 Recommended Labs and resources:
 
@@ -169,8 +169,8 @@ Study and practice but not limited to the following:
 * Be comfortable with changing control-plane components
 * CIS benchmarks
 * Know how to use tools like Falco, Sysdig, Tracee, Trivy
-* Be comfortable with create and use ImagePolicyWebhook
-* Setup audit policy
+* Be comfortable with creating and using ImagePolicyWebhook
+* Study and practice how to set audit policy
 * Create Network policies
 * Configure Security context for pod or container
 * Create ServiceAccounts
