@@ -183,3 +183,4 @@ Recommended Labs and resources:
 * [Cloud Native Security Whitepaper](https://www.cncf.io/wp-content/uploads/2022/06/CNCF_cloud-native-security-whitepaper-May2022-v2.pdf)
 * <https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist>
 * <https://github.com/ViktorUJ/cks>
+* <https://github.com/ahmetb/kubernetes-network-policy-recipes>
